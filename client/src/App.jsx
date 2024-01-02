@@ -11,7 +11,7 @@ import {
 
 import Login from './components/Login/Login';
 import Signup from './components/Login/Signup';
-import Caro from './components/Carousel';
+// import Caro from './components/Carousel';
 import Event from './components/Pages/MyEvents';
 import Featured from './components/Pages/Featured';
 import Landing from './components/Pages/Landing';
