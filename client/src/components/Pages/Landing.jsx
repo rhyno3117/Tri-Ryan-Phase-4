@@ -41,7 +41,7 @@ function Landing() {
         <img
           src="https://miro.medium.com/v2/resize:fit:1358/1*Dmw3hv_CHbZEPyFTayw8Yw.png"
           alt="Background Party Image"
-          style={{ width: '100%', height: 'auto', marginTop:'-40vh'}}
+          style={{ width: '100%', height: 'auto'}}
         />
       </div>
       </>
